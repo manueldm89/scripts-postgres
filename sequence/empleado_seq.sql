@@ -1,0 +1,1 @@
+CREATE SEQUENCE empleado_seq START 10000;
